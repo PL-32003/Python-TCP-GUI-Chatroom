@@ -27,15 +27,14 @@ This project is a multi-threaded client-server chat application developed in Pyt
    git clone [https://github.com/YourUsername/Python-TCP-GUI-Chatroom.git](https://github.com/YourUsername/Python-TCP-GUI-Chatroom.git)
    cd Python-TCP-GUI-Chatroom
    ```
-Start the Server:
+2. Start the Server:
+   ```Bash
+   python server.py
+   ```
+   The server GUI will appear. Click "啟動伺服器" (Start Server).
+3. Start one or multiple Clients:
 
-```Bash
-python server.py
-```
-The server GUI will appear. Click "啟動伺服器" (Start Server).
-Start one or multiple Clients:
-
-```Bash
-python client.py
-```
-Enter a unique username when prompted to join the chatroom.
+   ```Bash
+   python client.py
+   ```
+   Enter a unique username when prompted to join the chatroom.
