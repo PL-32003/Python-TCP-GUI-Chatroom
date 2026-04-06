@@ -1,0 +1,9 @@
+# Python 暫存檔
+__pycache__/
+*.pyc
+
+# 作業系統產生的隱藏檔 (Mac)
+.DS_Store
+
+# IDE 設定檔 (如果你是用 VSCode)
+.vscode/
