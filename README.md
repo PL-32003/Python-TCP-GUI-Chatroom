@@ -24,7 +24,7 @@ This project is a multi-threaded client-server chat application developed in Pyt
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/Python-TCP-GUI-Chatroom.git](https://github.com/YourUsername/Python-TCP-GUI-Chatroom.git)
+   git clone [https://github.com/PL-32003/Python-TCP-GUI-Chatroom.git](https://github.com/YourUsername/Python-TCP-GUI-Chatroom.git)
    cd Python-TCP-GUI-Chatroom
    ```
 2. Start the Server:
